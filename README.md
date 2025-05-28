@@ -33,5 +33,8 @@
 ---
 
 ## 📸 صورة من داخل اللعبة
+
+📌 *(screenshots/typing-game.png))*
+
 ```markdown
 ![واجهة اللعبة](screenshots/typing-game.png)
