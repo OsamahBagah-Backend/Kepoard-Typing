@@ -1,0 +1,12 @@
+C:\Users\G.B\source\repos\Keypord_typing_project\bin\Debug\Keypord_typing_project.exe.config
+C:\Users\G.B\source\repos\Keypord_typing_project\bin\Debug\Keypord_typing_project.exe
+C:\Users\G.B\source\repos\Keypord_typing_project\bin\Debug\Keypord_typing_project.pdb
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.Form1.resources
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.Properties.Resources.resources
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.csproj.GenerateResource.cache
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.csproj.CoreCompileInputs.cache
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.exe
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.pdb
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.csproj.AssemblyReference.cache
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\G.B\source\repos\Keypord_typing_project\obj\Debug\Keypord_typing_project.FrmSettings.resources
